@@ -34,7 +34,8 @@
     "install": "^0.10.1",
     "lodash": "^4.17.4",
     "unirest": "^0.5.1",
-    "validate.js": "^0.12.0"
+    "validate.js": "^0.12.0",
+    "bluebird": "^3.5.1"
   },
   "devDependencies": {
     "express": "^4.16.2",
